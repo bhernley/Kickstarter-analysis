@@ -1,8 +1,8 @@
 # An Analysis of Kickstarter Campaigns.
 ---
 ## Bootcamp Kickstarter Example Charts:
-![Outcomes Based on Launch Date](C:\Users\bradl\OneDrive\Desktop\Bootcampo\Kickstarter\Outcomes Based on Launch Date.png)
-![Parent Category Outcomes](C:\Users\bradl\OneDrive\Desktop\Bootcampo\Kickstarter\Parent Category Outcomes.png)
+![Outcomes Based on Launch Date] (C:\Users\bradl\OneDrive\Desktop\Bootcampo\Kickstarter\Outcomes Based on Launch Date.png)
+![Parent Category Outcomes] (C:\Users\bradl\OneDrive\Desktop\Bootcampo\Kickstarter\Parent Category Outcomes.png)
 ---
 ## Findings & Analysis for a US based theatre Kickstarter campaign
 * A theatre based campaign for is the most category of Kickstarters, with 525 of 912 campaigns being successfull (58% success rate)
