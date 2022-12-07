@@ -1,6 +1,6 @@
-# An Analysis of Kickstarter Campaigns.
+# Kickstarter Module 1 Challenge
 ---
-## Bootcamp Kickstarter Example Charts:
+## An Analysis of Kickstarter Campaigns:
 ![Outcomes Based on Launch Date] (C:\Users\bradl\OneDrive\Desktop\Bootcampo\Kickstarter\Outcomes Based on Launch Date.png)
 ![Parent Category Outcomes] (C:\Users\bradl\OneDrive\Desktop\Bootcampo\Kickstarter\Parent Category Outcomes.png)
 ---
